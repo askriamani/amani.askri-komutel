@@ -57,3 +57,4 @@ build/
 .vscode/
 /Back_office/target/
 /react-api/node_modules/
+/Front_office/node_modules/
